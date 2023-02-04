@@ -14,7 +14,11 @@ byte receivedFace = 0;
 byte maxTurns = 12;
 
 void setup() {
-
+  randomize();
+  byte coinFlip = random(1);
+  if (coinFlip == 1) {
+    turnOne = true;
+  } 
 }
 
 void inertLoop() {
