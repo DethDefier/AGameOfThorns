@@ -1,6 +1,7 @@
 # Thorns
-A game for Blinks by Move38
+A game for Blinks by Move38 
 12+ blinks (sorry 6 blink people :/)
+My submission for GGJ 2023
 
 In Thorns, two gardeners battle against each other by planting seeds to win over a crystal flower in their garden.
 
